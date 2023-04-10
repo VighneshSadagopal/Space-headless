@@ -1,0 +1,11 @@
+test_defaults:
+  to: prabhavathi.vanipenta@qed42.com
+  subject: 'Test Email from SendGrid Module'
+  body:
+    value: "<p>Test Message for SendGrid email.</p>\r\n"
+    format: full_html
+  from_name: 'Send grid test'
+  to_name: Prabhavathi
+  reply_to: ''
+trackopens: 0
+trackclicks: 0

@@ -1,0 +1,15 @@
+langcode: en
+status: true
+dependencies: {  }
+id: drimage
+label: drimage
+description: ''
+weight: 0
+folder: ''
+module: {  }
+theme: {  }
+blacklist:
+  - 'image.style.drimage*'
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true

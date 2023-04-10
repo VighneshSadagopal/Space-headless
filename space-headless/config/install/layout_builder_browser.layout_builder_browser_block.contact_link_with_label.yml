@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies: {  }
+id: contact_link_with_label
+block_id: 'system_menu_block:contact-link-with-label'
+category: menus
+label: 'Contact link with label'
+image_path: /themes/contrib/space/images/lbb/contact_link_with_label.svg
+image_alt: ''
+weight: -10

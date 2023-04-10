@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies: {  }
+id: sub_menu_5
+block_id: 'system_menu_block:sub-menu-5'
+category: menus
+label: 'Sub menu 5'
+image_path: /themes/contrib/space/images/lbb/sub_menu.svg
+image_alt: ''
+weight: -15

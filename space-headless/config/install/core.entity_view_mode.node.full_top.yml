@@ -1,0 +1,9 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.full_top
+label: 'Full Top'
+targetEntityType: node
+cache: true

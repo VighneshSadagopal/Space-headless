@@ -1,0 +1,6 @@
+ignored_config_entities:
+  - system.site.page
+  - system.site.page.403
+  - system.site.page.404
+  - social_auth_facebook.settings
+  - social_auth_google.settings

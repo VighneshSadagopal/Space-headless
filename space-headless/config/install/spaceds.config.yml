@@ -1,0 +1,2 @@
+dist_path: /../../dist/app-drupal
+only_own_layout: false

@@ -1,0 +1,12 @@
+name: Space Headless Starterkit
+type: profile
+description: Base profile for setting up the project with Space in a headless Way.
+core_version_requirement: '^8.8 || ^9'
+dependencies:
+  - next
+
+themes:
+  - claro
+  - stable
+  - space
+  - gin

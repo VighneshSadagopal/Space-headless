@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies: {  }
+id: sub_header_footer_menu
+block_id: 'system_menu_block:sub-header---footer-menu'
+category: menus
+label: 'Sub header - Footer menu'
+image_path: /themes/contrib/space/images/lbb/sub_menu.svg
+image_alt: ''
+weight: -12

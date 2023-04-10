@@ -1,0 +1,17 @@
+langcode: en
+status: false
+dependencies: {  }
+id: local
+label: Local
+description: ''
+weight: 0
+folder: ../config/envs/local
+module:
+  devel: 0
+  menu_export: 0
+  twig_vardumper: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
