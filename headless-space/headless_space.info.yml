@@ -1,0 +1,12 @@
+name: Headless Space Profile 
+description: This Profile will enable and check if the required modules for decoupled Next is available or not.
+type: Profile
+core_version_requirement: '^8.8 || ^9'
+dependencies:
+ - next
+ - json_api
+themes:
+  - claro
+  - stable
+  - space
+  - gin

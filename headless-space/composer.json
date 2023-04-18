@@ -1,0 +1,31 @@
+{
+    "name": "space/headless",
+    "description": "A headless integration with next.js",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Space\\Headless\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DDEV User",
+            "email": "nobody@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "drupal/next":"^1.6"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/installers": false,
+            "drupal/console-extend-plugin": false,
+            "cweagans/composer-patches": true,
+            "drupal/core-composer-scaffold": false,
+            "drupal/core-project-message": false,
+            "drupal/core-vendor-hardening": false,
+            "oomphinc/composer-installers-extender": false
+        }
+    }
+}
